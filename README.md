@@ -23,32 +23,32 @@
 <h2>How to use restAPI Jmeter</h2>
 <p>1. Start server agent (only if you want to monitor cpu,ram,etc.)</p>
 <p>Open the server agent folder, open cmd and type startAgent.bat (for Windows) or startAgent.sh (for Linux/Mac)</p>
-<img alt="" src="./readme_instruction_screenshots/server_connected.png">
+<img alt="" src="./Readme_instruction_screenshots/server_connected.png">
 
 <p>2. Run jmeter</p>
 <p>Open the bin folder pf jmeter, open cmd and type jmeter.bat (for Windows) or jmeter.sh (for Linux/Mac)</p>
 <p>3. Initialize group</p>
-<img alt="" src="./readme_instruction_screenshots/thread_group.png">
+<img alt="" src="./Readme_instruction_screenshots/thread_group.png">
 <p>4. Add Samplers</p>
-<img alt="" src="./readme_instruction_screenshots/sampler_http.png">
-<img alt="" src="./readme_instruction_screenshots/request_http.png">
+<img alt="" src="./Readme_instruction_screenshots/sampler_http.png">
+<img alt="" src="./Readme_instruction_screenshots/request_http.png">
 <p>5. Add Listeners</p>
-<img alt="" src="./readme_instruction_screenshots/listener.png">
+<img alt="" src="./Readme_instruction_screenshots/listener.png">
 
 <h2>How to use MongoDB Jmeter</h2>
 <p>1. Start server agent (only if you want to monitor cpu,ram,etc.)</p>
 <p>Open the server agent folder, open cmd and type startAgent.bat (for Windows) or startAgent.sh (for Linux/Mac)</p>
-<img alt="" src="./readme_instruction_screenshots/server_connected.png">
+<img alt="" src="./Readme_instruction_screenshots/server_connected.png">
 
 <p>2. Run jmeter</p>
 <p>Open the bin folder pf jmeter, open cmd and type jmeter.bat (for Windows) or jmeter.sh (for Linux/Mac)</p>
 <p>3. Initialize group</p>
-<img alt="" src="./readme_instruction_screenshots/thread_group.png">
+<img alt="" src="./Readme_instruction_screenshots/thread_group.png">
 <p>4. Add Samplers</p>
-<img alt="" src="./readme_instruction_screenshots/sampler_mongo.png">
-<img alt="" src="./readme_instruction_screenshots/request_http.png">
+<img alt="" src="./Readme_instruction_screenshots/sampler_mongo.png">
+<img alt="" src="./Readme_instruction_screenshots/request_http.png">
 <p>5. Add Listeners</p>
-<img alt="" src="./readme_instruction_screenshots/listener.png">
+<img alt="" src="./Readme_instruction_screenshots/listener.png">
 
 <h2>💻 Built with</h2>
 Technologies used in the project:

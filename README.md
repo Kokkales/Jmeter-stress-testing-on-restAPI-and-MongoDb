@@ -12,6 +12,8 @@
 
 <p>3. Install Apache server agent plugin</p>
 <p>https://github.com/undera/perfmon-agent/blob/master/README.md</p>
+<p><strong>Important Note:</strong><p>
+<p>On windows there might be a problem communicating with the server agent. That could be because the sigar-amd64-winnt.dll file this is the corrected file './Other_files/sigar-amd64-winnt.dll' replace it!</p>
 
 <p>After all the installations we have to add the perfmon plugin to jmeter. The process is easy and the only thing we have to do is to copy the files from the unzipped perfmon plugin folder to the jmeter equivalent folders(lib,ext)</p>
 

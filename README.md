@@ -24,7 +24,6 @@
 <p>1. Start server agent (only if you want to monitor cpu,ram,etc.)</p>
 <p>Open the server agent folder, open cmd and type startAgent.bat (for Windows) or startAgent.sh (for Linux/Mac)</p>
 <img alt="" src="./readme_instruction_screenshots/server_connected.png">
-
 <p>2. Run jmeter</p>
 <p>Open the bin folder pf jmeter, open cmd and type jmeter.bat (for Windows) or jmeter.sh (for Linux/Mac)</p>
 <p>3. Initialize group</p>
@@ -39,7 +38,6 @@
 <p>1. Start server agent (only if you want to monitor cpu,ram,etc.)</p>
 <p>Open the server agent folder, open cmd and type startAgent.bat (for Windows) or startAgent.sh (for Linux/Mac)</p>
 <img alt="" src="./readme_instruction_screenshots/server_connected.png">
-
 <p>2. Run jmeter</p>
 <p>Open the bin folder pf jmeter, open cmd and type jmeter.bat (for Windows) or jmeter.sh (for Linux/Mac)</p>
 <p>3. Initialize group</p>

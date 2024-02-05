@@ -28,7 +28,7 @@
 <p>Open the bin folder pf jmeter, open cmd and type jmeter.bat (for Windows) or jmeter.sh (for Linux/Mac)</p>
 ![Image Alt text](/readme_instruction_screenshots/server_connected.png)
 <p>3. Initialize group</p>
-![Image Alt text](/readme_instruction_screenshots/thread_group.png)
+![Image Alt text](/readme_instruction_screenshots/thread_group.png "test")
 <p>4. Add Samplers</p>
 ![Image Alt text](/readme_instruction_screenshots/sampler_http.png)
 ![Image Alt text](/readme_instruction_screenshots/request_http.png)
@@ -45,7 +45,7 @@
 <p>3. Initialize group</p>
 ![Image Alt text](/readme_instruction_screenshots/thread_group.png)
 <p>4. Add Samplers</p>
-![Image Alt text](/readme_instruction_screenshots/sampler_http.png)
+![Image Alt text](/readme_instruction_screenshots/sampler_mongo.png)
 ![Image Alt text](/readme_instruction_screenshots/request_http.png)
 <p>5. Add Listeners</p>
 ![Image Alt text](/readme_instruction_screenshots/listener.png)
